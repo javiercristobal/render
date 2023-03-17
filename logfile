@@ -1,0 +1,7 @@
+2023-02-24 02:06:34.184 CET [15403] LOG:  starting PostgreSQL 15.2 on arm-unknown-linux-androideabi, compiled by Android (9352603, based on r450784d1) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), 32-bit
+2023-02-24 02:06:34.209 CET [15403] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-02-24 02:06:34.214 CET [15403] LOG:  listening on Unix socket "/data/data/com.termux/files/usr/tmp/.s.PGSQL.5432"
+2023-02-24 02:06:34.278 CET [15408] LOG:  database system was shut down at 2023-02-24 02:05:45 CET
+2023-02-24 02:06:34.339 CET [15403] LOG:  database system is ready to accept connections
+2023-02-24 02:11:34.320 CET [15406] LOG:  checkpoint starting: time
+2023-02-24 02:11:37.733 CET [15406] LOG:  checkpoint complete: wrote 36 buffers (0.2%); 0 WAL file(s) added, 0 removed, 0 recycled; write=3.344 s, sync=0.003 s, total=3.416 s; sync files=10, longest=0.001 s, average=0.001 s; distance=175 kB, estimate=175 kB
